@@ -1,0 +1,4 @@
+[project]
+name = "week-3-entity-recognition"
+requires-python = ">= 3.8"
+version = "1.0.0"
